@@ -1,0 +1,5 @@
+.has-danger .control-label,
+.has-danger .help-block,
+.has-danger .form-control-feedback {
+    color: #d9534f;
+}
